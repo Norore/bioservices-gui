@@ -8,6 +8,8 @@ A GUI for using the bioservices' module Python. The aim is to help biologists to
 
 bioservices' module Python project : https://github.com/cokelaer/bioservices
 
+If you want to try the GUI, go on core/ and launch main.py (early development stage)
+
 ## Dependencies
 
 * BeautifulSoup

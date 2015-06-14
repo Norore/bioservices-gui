@@ -1,0 +1,4 @@
+*.pyc
+*test*
+*_cache.json
+*_old*
